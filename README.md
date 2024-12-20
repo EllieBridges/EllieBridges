@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EllieBridges
-- 👀 I’m in a shift from GIS to Frontend Development and loving the journey. While I'm not playing with code, you can find me bumbling around the woods taking pictures of mushrooms 🍄
+- 👀 While I'm not playing with code, you can find me bumbling around the woods taking pictures of mushrooms 🍄
 - 🌱 Now I've got to grips with basic principles, I'm currently skilling up in React, Typescript, Next.js and looking at the inner workings
 - 📫 You can reach me on LinkedIn www.linkedin.com/in/ellielbridges or drop me a message at ellielbridges+github@gmail.com
 
